@@ -7,3 +7,6 @@ for i in range(20):
     
 print("This is another print statement.")
 print("Dom kind of botched the demo.")
+
+
+print("We are expecting snow")
