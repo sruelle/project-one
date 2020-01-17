@@ -7,3 +7,5 @@ for i in range(20):
 print("This is annother print statement") 
 print("This class is moving fast today, Love!")  
 print("We definitely needed this")
+
+print("No class on Saturday, YAY!")
