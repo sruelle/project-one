@@ -35,6 +35,7 @@ Analyze and Visualize the data using python pandas
 
 
 TEAM MEMBERS
+
 Stacey Ruelle,
 Onome Hunt,
 Ashwin Patel,
