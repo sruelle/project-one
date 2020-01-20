@@ -26,8 +26,11 @@ https://ourworldindata.org/suicide
 
 MILESTONES
 Identify data
+
 Organize and Clean up data
+
 Analyze and Visualize the data using python pandas
+
 
 
 TEAM MEMBERS
