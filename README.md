@@ -18,7 +18,9 @@ Our goal is to be able to answer the following questions:
 
 DATA SOURCES
 Due to the cost of acquiring an API key, the data was imported into csv files
+
 www.numbeo.com/quality-of-life/rankingsbycountry
+
 https://ourworldindata.org/suicide
 
 
